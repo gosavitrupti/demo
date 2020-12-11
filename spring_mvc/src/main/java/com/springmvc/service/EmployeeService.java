@@ -6,6 +6,8 @@ public interface EmployeeService {
 
 	public int addEmployee(Employee employee);
 	
+	public int updateEmployee(Employee employee);
+	
 	public Employee getEmployeeById(Long empId);
 	
 	

@@ -27,4 +27,9 @@ public class EmployeeServiceImpl implements EmployeeService{
 		return emp;
 	}
 
+	public int updateEmployee(Employee employee) {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
 }
